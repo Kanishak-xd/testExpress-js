@@ -10,7 +10,7 @@ npm i express
 ```
 Create index.js
 ```
-npm i nodemoon -g
+npm i nodemon -g
 ```
 Run the hello world program file with nodemon:
 ```
